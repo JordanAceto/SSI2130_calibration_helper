@@ -6,7 +6,7 @@ The code is a straight mapping of the "Tuning Process" outlined in the datasheet
 
 Steps:
 - Inject 1.000v into the VCO
-- Turn the VCO frequency to somewhere around 30 Hz 
+- Turn the VCO frequency fairly low, somewhere around 30Hz ~ 100Hz 
 - Measure the VCO frequency, this is FA
 - Inject 5.000v into the VCO
 - Measure the new VCO frequency, it is FB
